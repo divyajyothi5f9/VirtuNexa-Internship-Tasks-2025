@@ -1,0 +1,13 @@
+Palindrome Checker Program - Instructions
+
+1. Ensure you have Java installed (Java 8 or higher).
+
+2. Compile the program:
+   javac *.java
+
+3. Run the program with the GUI:
+   java Main
+
+4. A window will appear. Enter a phrase and click "Check" to see if it's a palindrome.
+
+5. To switch to the CLI version, uncomment the CLI code in Main.java and comment out the GUI line.
