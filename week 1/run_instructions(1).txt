@@ -1,0 +1,10 @@
+
+1. Ensure JDK is installed.
+2. Download and place sqlite-jdbc jar file in the same directory (lib/).
+3. Compile:
+   javac -cp ".;lib/sqlite-jdbc-3.43.0.0.jar" src/*.java
+4. Run:
+   java -cp ".;lib/sqlite-jdbc-3.43.0.0.jar;src" Main
+5. For Digital Clock:
+   javac src/DigitalClock.java
+   java -cp src DigitalClock
