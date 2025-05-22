@@ -1,0 +1,2 @@
+javac -cp "lib/sqlite-jdbc.jar" src/**/*.java Main.java
+java -cp "build:lib/sqlite-jdbc.jar" Main
